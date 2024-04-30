@@ -3,3 +3,55 @@
     font-size: 40px;
  
 }
+
+.puesto{
+    text-align: center;
+   
+}
+
+.info{
+display:flex;
+font-size: 17px;
+align-content: center;
+
+}
+.ctn-tel{
+    
+    display: flex;
+}
+
+.num-tel{
+    margin-right: 20px;
+   
+}
+.parte1{
+    display: flex;
+    flex-direction: column;
+}
+.infPer{
+   
+    display: flex;
+    width: 800px;
+    margin-left: 30%;
+}
+
+.correo{
+    margin-right: 20px;
+}
+
+.hola{
+display: flex;
+gap: 120px;
+font-size: 20px;
+justify-content: center;
+
+}
+
+
+
+}
+.imagen2{
+
+    display: flex;
+flex-direction: column;
+}
