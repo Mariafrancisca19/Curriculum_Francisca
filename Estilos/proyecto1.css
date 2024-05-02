@@ -124,3 +124,45 @@ margin-left: 170px;
     display: flex;
     margin-left: 30px;
 }
+
+.megusta{
+background-color: rgba(206, 255, 239, 0.81);
+font: black;
+width: 100px;
+margin-right: 30px;
+font-size: 20px;
+}
+
+.nomegusta{
+font: black;
+background-color: #ff729f;
+width: 100px;
+font-size: 20px;
+margin-right: 30px;
+}
+
+
+
+.enviar{
+    font: black;
+width: 130px;
+font-size: 20px;
+background-color: rgb(255, 186, 74);
+
+}
+.javaScript{
+    display: flex;
+    position: relative;
+    bottom: -800px;
+
+
+}
+#Vistas{
+font-size: 30px;
+
+}
+
+.perfil{
+font-size: 30px;
+
+}
