@@ -88,7 +88,7 @@ margin-right: 500px;
 
 .margen{
     border: solid;
-
+background:rgb(212, 205, 205)
 }
 
 .mover{
@@ -185,3 +185,4 @@ left: 360px;
     align-items: center;
     justify-content: center;
 }
+
