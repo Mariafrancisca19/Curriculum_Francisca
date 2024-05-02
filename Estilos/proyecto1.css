@@ -116,6 +116,11 @@ border-left: 2px solid black;
 margin-left: 170px;
 
 }
+.fotoo:hover{
+    transform:rotate(180deg)
+}
+
+
 .header{
     font-size: 30px;
 
@@ -130,6 +135,7 @@ background-color: rgba(206, 255, 239, 0.81);
 font: black;
 width: 100px;
 margin-right: 30px;
+height: 70px;
 font-size: 20px;
 }
 
@@ -139,6 +145,7 @@ background-color: #ff729f;
 width: 100px;
 font-size: 20px;
 margin-right: 30px;
+height: 70px;
 }
 
 
@@ -148,7 +155,7 @@ margin-right: 30px;
 width: 130px;
 font-size: 20px;
 background-color: rgb(255, 186, 74);
-
+height: 70px;
 }
 .javaScript{
     display: flex;
@@ -165,4 +172,16 @@ font-size: 30px;
 .perfil{
 font-size: 30px;
 
+}
+
+.titulo-javaScript{
+position: relative;
+bottom: -660px;
+left: 360px;    
+}
+
+.contenedor-visitas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

@@ -20,10 +20,9 @@ return nuevo
 
 let enviar=document.getElementById("enviar")
 enviar.addEventListener("click",function () {
-if (enviar.textContent!=" No enviar") {
-    enviar.textContent!="No enviar"
-} else {
-    enviar.textContent="Enviar"
+if (enviar.innerHTML=="Enviar") {
+    enviar.innerHTML="No enviar"
+}else if(enviar.innerHTML == "No enviar"){
+    enviar.innerHTML="Enviar"
 }
-
 })
